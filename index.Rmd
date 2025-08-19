@@ -1,0 +1,50 @@
+---
+title: "How to write a BSc thesis!"
+description: |
+  A companion website for students writing their BSc thesis with the Center for Cognitive and Decision Sciences
+  
+  **Instructors:** [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), [Loreen Tisdall](https://psychologie.unibas.ch/de/personen/loreen-tisdall/about-me/), & [Maximilian Theisen](https://psychologie.unibas.ch/en/persons/theisen-maximilian/), University of Basel
+  
+  **Last updated:** `r format(Sys.time(), "%a %b %d %X %Y")`
+  
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+![<span>Photo by <a href="https://unsplash.com/@siora18?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Siora Photography</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span>](resources/siora-photography-hgFY1mZY-Y0-unsplash.jpg)
+
+![An overview of the BSc thesis timeline](resources/bsc_plan.png)
+
+## Writing a BSc thesis made easy(er)!
+
+This website helps you get an overview of the steps involved in writing a bachelor thesis. It makes available readings and other resources to help you write a BSc thesis consisting of a research synthesis (e.g., rapid review, scoping review, systematic review, systematic review and meta-analysis). The slides for each session are also posted on the site.
+
+Before the start of the semester please take some time to read the [FAQs](https://matarui.github.io/BSc_thesis/FAQ.html) and the Faculty of Psychology's [page](https://psychologie.unibas.ch/de/studium/bachelorstudium/zweites-und-drittes-studienjahr/bachelorarbeit-4190/) on writing a bachelor thesis.
+
+Please note that this site is *work-in-progress* and may be updated on a regular basis and throughout the semester. Please send suggestions for improvement or corrections (e.g., incorrect/missing URLs) via email to the instructor - thank you!
+
+Sessions will take place Tuesdays, **8.15-9.45**, Missionsstrasse 64a, Seminar Room 00.009. 
+
+::: l-body
+| # | Date     | Topic                         | Slides |
+|---| -------------|-------------------------------|--------|
+| 1 | 08.10.2024 | [Introduction to Research Synthesis](session1.html) | [pdf](slides/BachelorCDS_session1.pdf) |
+| 2 | 15.10.2024 | [Systematic Literature Search](session2.html) | [pdf](slides/BachelorCDS_session2.pdf) |
+| 3 | 22.10.2024 | [Data Extraction and Coding](session3.html) | [pdf](slides/BachelorCDS_session3.pdf) |
+| 4 | 29.10.2024 | [Individual Meetings](session4.html) |  |
+| 5 | 05.11.2024 | [Individual Meetings](session4.html) |  |
+| 6 | 12.11.2024 | [Individual Meetings](session4.html) |  |
+| 7 | 19.11.2024 | [Student Lightning Talks](session5.html) |  |
+| 8 | 26.11.2024 | [Student Lightning Talks](session5.html) |  |
+| 9 | 18.02.2025 | [Check-in](index.html) | [pdf](slides/BachelorCDS_session4.pdf) |
+:::

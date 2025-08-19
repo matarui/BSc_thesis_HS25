@@ -1,0 +1,74 @@
+---
+title: "Frequently Asked Questions"
+description: |
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+**1. Is it mandatory to attend these sessions? **
+
+Yes. Attendance is mandatory for students assigned to writing their bachelor thesis with the Center for Cognitive and Decision Sciences through the [BachelorMatch](https://zapp.psycho.p.unibas.ch/bachelor) system.
+
+**2. Do I need to register for a specific course to attend these sessions? **
+
+Yes. Students should register for the seminar ["How to write a Bachelor thesis in Cognitive and Decision Sciences".](https://vorlesungsverzeichnis.unibas.ch/de/home?id=279717)
+
+**3. Do I receive credit points (KP) for attending these sessions? **
+
+Yes. Students receive 1 credit point (KP) for attending the sessions.
+
+**4. Do I need to conduct a research synthesis for my BSc thesis? **
+
+No. Students writing their bachelor thesis with the Center for Cognitive and Decision Sciences are encouraged to write a research synthesis (i.e., some form of combining the results of multiple studies to answer a research question). However, students have other options, for example, writing an empirical bachelor thesis based on secondary data-analysis using existing, publicly available data. These are typically more challenging projects that require additional time commitment and such alternative plans need to be discussed with the instructor on a case-by-case basis. 
+
+**5. Do I need to conduct a meta-analysis for my BSc thesis? **
+
+No. Students writing a research synthesis may not necessarily conduct a meta-analysis, as there are various forms of research synthesis (e.g., systematic reviews, rapid reviews, scoping reviews) that do not involve a quantitative summary of results (i.e., meta-analysis). Each student is encouraged to select the form of research synthesis that best suits their research question. 
+
+**6. Do I need to write a thesis on the topic that was selected by BachelorMatch? **
+
+No. The [BachelorMatch](https://zapp.psycho.p.unibas.ch/bachelor) system describes a few topics and students can choose to pursue these. However, students can also pursue different topics and are encouraged to discuss topic feasibility with the instructor. The instructor will also propose topics that are directly related to the core scientific interests of the Center for Cognitive Decision Sciences during the first session. Check out our [website](http://www.cds.unibas.ch) to learn more about the work at the center.  
+
+**7. Can I write a thesis on any topic? **
+
+Yes, within reason. Some topics may be difficult to pursue because there are too few primary studies available or require methodology and skills that are not feasible to acquire in the context of a bachelor thesis. Students are encouraged to discuss topic feasibility with the instructor. 
+
+**8. Do I need to write a thesis proposal (Exposé)? **
+
+Yes. Students are required to write a draft thesis proposal of 1-2 pages as preparation for their individual meeting with the instructor (scheduled to take place mid semester). The thesis proposal will then be used as an appendix to the [study contract](https://psychologie.unibas.ch/fileadmin/user_upload/psychologie/Studium/Bachelorstudium/Dokumente/Studienvertrag_BA.docx) that needs to be submitted by the end of the semester (typically around the last week of the Fall semester). An example of a thesis proposal can be found on [ADAM](https://adam.unibas.ch/goto.php?target=crs_1027835).
+
+**9. Do I need to write my thesis in English? **
+
+No. The sessions listed above will take place in English but individual meetings and thesis writing can take place in German.
+
+**10. How will my bachelor thesis be evaluated? **
+
+There are a number of criteria, including the clarity and quality of argumentation, effort, and the use of appropriate methods and procedures. An example of the thesis evaluation sheet can be found [here](resources/Evaluation_CDS_ENG_watermark.pdf).
+
+**11. How many studies should a research synthesis include? **
+
+A synthesis needs to include, by definition, more than one study - there is no clear rule for a minimum number of studies. 
+
+**12. How many pages should my thesis have? **
+
+Less is more: Shorter, clear writing should be preferred. A bachelor thesis is formatted like a scientific manuscript and will typically be about 20-30 pages in length (including title pages, references, tables, and figures, but excluding appendices). 
+
+**13. Should I use a template? **
+
+Yes. Please use one of the [templates](https://psychologie.unibas.ch/de/studium/bachelorstudium/dokumente/) provided by the deanery of studies. Please note that these are available in English and German. 
+
+**14. How do I submit my thesis? **
+
+The Bachelor thesis should be emailed to [studiendekanat-psychologie@unibas.ch](mailto:studiendekanat-psychologie@unibas.ch). 
+
+**15. When is my thesis due? **
+
+The Bachelor thesis is due April 15th. You can apply for an extension by sending the appropriate [form](https://psychologie.unibas.ch/fileadmin/user_upload/psychologie/Studium/Bachelorstudium/Dokumente/Mitteilung_Verlaengerung_Abgabetermin_BA_neu.doc) to [pruefungskommission-psychologie@unibas.ch](mailto:pruefungskommission-psychologie@unibas.ch). 
+
+**16. How often should I meet the instructor?**
+
+You should meet the instructor several times in the group meetings and *at least* once for an individual meeting. More meetings are possible and it is not uncommon that students meet the instructor more than once before signing the *Studienvertrag*. Feel free to email the instructor with a meeting request but please make sure to include in your email a list of specific questions and background materials (papers, Exposé) that you would like to discuss.

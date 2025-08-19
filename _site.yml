@@ -1,0 +1,26 @@
+name: "cds_bsc_HS24"
+title: "Home"
+description: |
+  A companion website
+output_dir: "docs"
+navbar:
+  logo:
+    image: resources/unibas.png
+    href: https://cds.unibas.ch
+  right:
+    - text: "Introduction"
+      href: session1.html
+    - text: "Systematic Search"
+      href: session2.html
+    - text: "Extraction and Coding"
+      href: session3.html
+    - text: "Individual Meetings"
+      href: session4.html
+    - text: "Lightning Talks"
+      href: session5.html
+    - text: "FAQ"
+      href: FAQ.html
+      search: true
+output:   
+  distill::distill_article:
+    toc: true

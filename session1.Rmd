@@ -1,0 +1,58 @@
+---
+title: "Introduction to Research Synthesis"
+description: |
+  **Session 1**: What is a BSc thesis and how to find a research gap
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![What is a BSc Thesis?](slides/BachelorCDS_session1.pdf){width=700px height=500px}
+
+## A BSc thesis...
+
+A bachelor thesis demonstrates your ability to advance scientific knowledge while adopting appropriate guidelines and ethical principles of scientific conduct. 
+
+You can find a number of example bachelor theses that have been written with the Center for Cognitive and Decision Sciences as well as an example evaluation sheet on [ADAM](https://adam.unibas.ch/goto_adam_fold_1029085.html).
+
+
+## Research Synthesis
+
+The paper by Gurevitch et al. (2018; see recommended readings below) gives you a quick overview of the history of research synthesis (60 minutes). 
+
+Gurevitch et al. (2018) focuses on meta-analysis but, as discussed in this session, there are various types of research syntheses that represent different approaches to capturing the current state of research, existing literature and analyses. The following table provides an overview of different types of research syntheses and additional resources. 
+
+::: l-body
+| Type     | Additional resources|
+| ---------|-------------------------------------------------------|
+| Systematic review| Systematic reviews aim to provide a comprehensive, unbiased synthesis of many relevant studies in a single document using rigorous and transparent methods. The [Joanna Briggs Institute](https://jbi-global-wiki.refined.site/space/MANUAL) (JBI) has many helpful chapters that describe different forms of systematic reviews.| 
+| Meta-analysis| A meta-analysis uses existing research to quantitatively analyze the literature, typically by creating some weighted estimate of multiple effect sizes obtained from several sources. The [JBI](https://jbi-global-wiki.refined.site/space/MANUAL/355828307/4.3+Meta-analysis) provides useful resources. | 
+| Scoping review | A scoping review aims to identify the scope and extent of research findings and literature. The [JBI](https://jbi-global-wiki.refined.site/space/MANUAL/355862497/10.+Scoping+reviews) provides useful resources. The Preferred Reporting Items for Systematic Reviews and Meta-Analyses [(PRISMA)](https://www.prisma-statement.org/scoping) also published a helpful extension for scoping reviews. | 
+| Umbrella review | An umbrella review is essentially an overview of different systematic reviews. This can be used when the literature in a field is large. The [JBI](https://jbi-global-wiki.refined.site/space/MANUAL/355829653/9.+Umbrella+reviews) provides additional information on umbrella reviews. | 
+:::
+
+## Formulating a Research Question
+
+One of the first challenges in writing a BSc thesis is to identify a gap in the existing research and, from there, formulate a research question that can be answered with a research synthesis. 
+
+What is a research gap? A research gap is a question or a topic that research in a field has not yet answered or explored extensively (i.e. a scientific idea, a concept, a specific study population, or a comparison of opposing scientific opinions). Identifying one can be difficult. Here are some helpful steps:
+
+::: l-body
+|Steps|                        |
+|-----|-------------------------------|
+| Step 1: | Ask yourself what area of psychology you find interesting.| 
+| Step 2: | Search for literature in various databases (i.e. [PubMed](https://pubmed.ncbi.nlm.nih.gov), [Scopus](https://www.scopus.com/search/form.uri?display=basic#basic), [Web of Science](https://www.webofscience.com/wos/woscc/basic-search)) and look for systematic reviews and meta-analyses, as these provide an overview of research findings. |
+| Step 3: | Start with reading a few abstracts first to get a good overview of the existing literature. |
+| Step 4:| Focusing on the discussion and conclusion can be helpful, as you can often find suggestions and proposals for future research. |
+| Step 5:| Hopefully, you have an overview now of where there might be a research gap. |  
+| Step 6:| Is the research gap feasible for a bachelor thesis? You can also discuss this with your supervisor. |  
+| Step 7:| Based on your research gap, you can formulate your research question.|  
+
+
+### Recommended Reading
+
+Gurevitch, J., Koricheva, J., Nakagawa, S., & Stewart, G. (2018). Meta-analysis and the science of research synthesis. *Nature, 555*(7695), 175–182. [http://doi.org/10.1038/nature25753](http://doi.org/10.1038/nature25753)
+
+
+:::

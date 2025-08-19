@@ -1,0 +1,32 @@
+---
+title: "Extraction and Coding"
+description: |
+  **Session 3**: A brief introduction to summarizing and making sense of the literature
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+  
+```
+
+![Extraction and Coding](slides/BachelorCDS_session3.pdf){width=700px height=500px}
+
+### Relevant Resources
+
+The table below lists a few resources that may be helpful when conducting extraction and coding. 
+
+
+::: l-body
+| |       
+|-----------------------------|--------------------------------------------------------------------|
+| Organization of systematic reviews | [Covidence](https://www.covidence.org) can help you organize your research studies. You can screen abstracts and extract data in a systematic manner. Please note that the free version of Covidence has a limit on the number of records you can include in your synthesis. An alternative may be [Rayyan](https://www.rayyan.ai). | 
+| Conducting a meta-analysis | [*metafor*](https://www.metafor-project.org/doku.php/metafor) is an easy to use *R* package. It can help you conduct a meta-analysis and has an extensive online documentation, including a lot of [*tips & tricks*](https://www.metafor-project.org/doku.php/tips). Check out the recommended readings for additional information: Bruecker et al. (2021) provides an overview of meta-analyses and an annotated reading list. For details on how to conduct a meta-analysis in R, check out the guide by Harrer et al. (2021).|
+
+:::
+
+### Recommended Readings
+
+Buecker, S., Stricker, J., & Schneider, M. (2021). Central questions about meta-analyses in psychological research: An annotated reading list. *Current Psychology* (2021). [https://doi.org/10.1007/s12144-021-01957-4](https://link.springer.com/article/10.1007/s12144-021-01957-4)
+
+Harrer, M., Cuijpers, P., Furukawa, T., & Ebert, D. (2021). Doing meta-analysis with R: A hands-on guide. *Chapman and Hall/CRC*. [https://doi.org/10.1201/9781003107347](https://www.taylorfrancis.com/books/mono/10.1201/9781003107347/meta-analysis-mathias-harrer-pim-cuijpers-toshi-furukawa-david-ebert)
