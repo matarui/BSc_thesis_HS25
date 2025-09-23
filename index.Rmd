@@ -3,7 +3,7 @@ title: "How to write a BSc thesis!"
 description: |
   A companion website for students writing their BSc thesis with the Center for Cognitive and Decision Sciences
   
-  **Instructors:** [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), [Loreen Tisdall](https://psychologie.unibas.ch/de/personen/loreen-tisdall/about-me/), & [Maximilian Theisen](https://psychologie.unibas.ch/en/persons/theisen-maximilian/), University of Basel
+  **Instructors:** [Rui Mata](https://psychologie.unibas.ch/de/personen/rui-mata/about-me/), & [Loreen Tisdall](https://psychologie.unibas.ch/de/personen/loreen-tisdall/about-me/), University of Basel
   
   **Last updated:** `r format(Sys.time(), "%a %b %d %X %Y")`
   
