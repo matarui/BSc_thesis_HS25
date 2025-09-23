@@ -39,12 +39,12 @@ Sessions will take place Tuesdays, **8.15-9.45**, Missionsstrasse 64a, Seminar R
 | # | Date     | Topic                         | Slides |
 |---| -------------|-------------------------------|--------|
 | 1 | 23.09.2025 | [Introduction to Research Synthesis](session1.html) | [pdf](slides/BachelorCDS_session1.pdf) |
-| 2 | 07.10.2025 | [Systematic Literature Search](session2.html) | [pdf](slides/BachelorCDS_session2.pdf) |
-| 3 | 14.10.2025 | [Data Extraction and Coding](session3.html) | [pdf](slides/BachelorCDS_session3.pdf) |
+| 2 | 07.10.2025 | [Systematic Literature Search](session2.html) |  |
+| 3 | 14.10.2025 | [Data Extraction and Coding](session3.html) |  |
 | 4 | 21.10.2025 | [Individual Meetings](session4.html) |  |
 | 5 | 28.10.2025 | [Individual Meetings](session4.html) |  |
 | 6 | 04.11.2025 | [Individual Meetings](session4.html) |  |
 | 7 | 18.11.2025 | [Student Lightning Talks](session5.html) |  |
 | 8 | 25.11.2025 | [Student Lightning Talks](session5.html) |  |
-| 9 | 17.02.2026 | [Check-in](index.html) | [pdf](slides/BachelorCDS_session4.pdf) |
+| 9 | 17.02.2026 | [Check-in](index.html) |  |
 :::
